@@ -1,0 +1,59 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Горбунов"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Лаврушев"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Авксентьев"
+        },
+        "color": "positive"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Данилаев"
+      },
+      "color": "positive"
+    },{
+      "action": {
+        "type": "text",
+        "label": "Ильин"
+      },
+      "color": "positive"
+    },{
+      "action": {
+        "type": "text",
+        "label": "Козлов"
+      },
+      "color": "positive"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Бобина"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Назад"
+        },
+        "color": "negative"
+      }]
+  ]
+}

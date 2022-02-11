@@ -1,0 +1,45 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Сегодня"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Завтра"
+        },
+        "color": "positive"
+      },
+    {
+      "action": {
+        "type": "text",
+        "label": "Послезавтра"
+      },
+      "color": "positive"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "Неделя"
+      },
+      "color": "primary"
+    },{
+        "action": {
+          "type": "text",
+          "label": "День недели"
+        },
+        "color": "primary"
+      },{
+        "action": {
+          "type": "text",
+          "label": "Назад"
+        },
+        "color": "negative"
+      }]
+  ]
+}

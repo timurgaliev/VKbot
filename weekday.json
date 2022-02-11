@@ -1,0 +1,53 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Пн"
+      },
+      "color": "positive"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Вт"
+        },
+        "color": "positive"
+      },
+    {
+      "action": {
+        "type": "text",
+        "label": "Ср"
+      },
+      "color": "positive"
+    }],
+    [{
+        "action": {
+          "type": "text",
+          "label": "Чт"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Пт"
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Сб"
+        },
+        "color": "positive"
+      },{
+        "action": {
+          "type": "text",
+          "label": "Назад"
+        },
+        "color": "negative"
+      }]
+  ]
+}
