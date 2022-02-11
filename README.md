@@ -6,7 +6,7 @@ The major goal is to simplify the search of information during my bachelor study
 
 Samples.
 
-![alt text](https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143436.png | width=100)
+<img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143436.png  height="100">
 
-![alt text](https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143504.png | width=100)
+<img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143504.png  height="100">
 
