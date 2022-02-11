@@ -6,5 +6,5 @@ The major goal is to simplify the search of information during my bachelor study
 
 Samples.
 
-<img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143436.png" height="300"> <img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143504.png"  height="300">
+<img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143436.png" height="600"> <img src="https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143504.png"  height="600">
 
