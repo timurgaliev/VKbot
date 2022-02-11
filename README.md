@@ -4,3 +4,9 @@ This bot was written in the far of 2019 as my pet project. It is still working o
 
 The major goal is to simplify the search of information during my bachelor studying. 
 
+Samples.
+
+![alt text](https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143436.png)
+
+![alt text](https://github.com/timurgaliev/VKbot/blob/main/images/Screenshot_20220211-143504.png)
+
